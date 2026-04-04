@@ -1,0 +1,17 @@
+# Secret keys — never commit these
+.env
+
+# Virtual environment — too large to upload
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# ChromaDB local storage (if you switch to PersistentClient)
+chroma_db/
+
+# OS junk
+.DS_Store
+Thumbs.db
