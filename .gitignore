@@ -15,3 +15,8 @@ chroma_db/
 # OS junk
 .DS_Store
 Thumbs.db
+
+# Q&A inputs/outputs
+inputs/
+outputs/
+
