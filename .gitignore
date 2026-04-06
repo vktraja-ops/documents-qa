@@ -16,8 +16,10 @@ chroma_db/
 .DS_Store
 Thumbs.db
 
-# Q&A inputs/outputs
+# Q&A inputs
 inputs/
+
+# Q&A output
 output/
 
 capstone_project_requirements.pdf

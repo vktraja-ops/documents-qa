@@ -20,3 +20,7 @@ and ask questions about them using Google Gemini + ChromaDB.
 
 5. Run the app:
    streamlit run c:/AI/Capstone_Project/query_documents_agenticAI.py
+
+GitHub link: https://github.com/vktraja-ops/documents-qa
+Deployment link: https://documents-app-abnab74vdoddv2yjhevwfn.streamlit.app/
+
